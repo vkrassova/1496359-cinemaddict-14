@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [Виктория Крассова](https://up.htmlacademy.ru/ecmascript/14/user/1496359).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Беляев](https://up.htmlacademy.ru/ecmascript/14/user/691043).
 
 ---
 
